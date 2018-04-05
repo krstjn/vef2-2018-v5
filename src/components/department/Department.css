@@ -1,1 +1,13 @@
-/* útfæra */
+table {
+    padding: 10px;
+}
+thead tr td {
+    font-weight: bold;
+    padding: 5px 5px 5px 0;
+}
+tbody tr td {
+    padding-right: 5px;
+}
+tbody tr:nth-child(odd) {
+    background-color: #eee;
+}

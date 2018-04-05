@@ -1,1 +1,18 @@
-/* útfæra */
+
+.home {
+    margin: 0 auto;
+    margin-top: 20px;
+}    
+
+.stat-title {
+padding: 20px 20px 20px 0;
+}
+.stat-field {
+    display: flex;
+    width: 400px;
+}
+
+.stat-name{
+    font-weight: bold;
+    width: 80%;
+}

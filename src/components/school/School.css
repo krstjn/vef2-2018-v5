@@ -1,1 +1,13 @@
-/* útfæra */
+.school-link {
+    padding: 10px;
+}
+.school-link:hover {
+    cursor: pointer;
+    background-color: #eee;
+}
+
+.school-border {
+    width: 60%;
+    margin: 0 auto;
+    border-bottom: 1px solid black;    
+}
